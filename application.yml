@@ -1,3 +1,7 @@
 my:
   welcome:
     message: Hello Ashish
+
+fallback:
+  default:
+    string: NA
