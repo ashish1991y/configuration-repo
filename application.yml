@@ -4,4 +4,4 @@ my:
 
 fallback:
   default:
-    string: FALLBACK VALUE
+    string: NA
